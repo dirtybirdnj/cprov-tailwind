@@ -1,6 +1,8 @@
-![tailwind-nextjs-banner](/public/static/images/twitter-card.png)
+# Champlain Provisions Website
 
-# Tailwind Nextjs Starter Blog
+https://www.champlainprovisions.com
+
+Based on Next.js / Tailwind Starter - Docs Below
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/timlrx/tailwind-nextjs-starter-blog?style=social)](https://GitHub.com/timlrx/tailwind-nextjs-starter-blog/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/timlrx/tailwind-nextjs-starter-blog?style=social)](https://GitHub.com/timlrx/tailwind-nextjs-starter-blog/network/)
@@ -53,7 +55,7 @@ Feature request? Check the past discussions to see if it has been brought up pre
 - [0xchai.io](https://0xchai.io) - Chai's personal blog
 - [techipedia](https://techipedia.vercel.app) - Simple blogging progressive web app with custom installation button and top progress bar
 - [reubence.com](https://reubence.com) - Reuben Rapose's Digital Garden
-- [axolo.co/blog](https://axolo.co/blog) - Engineering management news & axolo.co updates (with image preview for article in the home page) 
+- [axolo.co/blog](https://axolo.co/blog) - Engineering management news & axolo.co updates (with image preview for article in the home page)
 - [musing.vercel.app](https://musing.vercel.app/) - Parth Desai's personal blog ([source code](https://github.com/pycoder2000/blog))
 
 Using the template? Feel free to create a PR and add your blog to this list.
@@ -228,10 +230,10 @@ Follow the interactive prompt to generate a post with pre-filled front matter.
 
 ## Deploy
 
-**Vercel**  
+**Vercel**
 The easiest way to deploy the template is to use the [Vercel Platform](https://vercel.com) from the creators of Next.js. Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-**Netlify / GitHub Pages / Firebase etc.**  
+**Netlify / GitHub Pages / Firebase etc.**
 As the template uses `next/image` for image optimization, additional configurations have to be made to deploy on other popular static hosting websites like [Netlify](https://www.netlify.com/) or [GitHub Pages](https://pages.github.com/). An alternative image optimization provider such as Imgix, Cloudinary or Akamai has to be used. Alternatively, replace the `next/image` component with a standard `<img>` tag. See [`next/image` documentation](https://nextjs.org/docs/basic-features/image-optimization) for more details.
 
 The API routes used in the newsletter component cannot be used in a static site export. You will need to use a form API endpoint provider and substitute the route in the newsletter component accordingly. Other hosting platforms such as Netlify also offer alternative solutions - please refer to their docs for more information.
