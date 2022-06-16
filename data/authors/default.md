@@ -1,16 +1,16 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
+name: Champ
+avatar: /static/images/captain-avatar-2.png
+occupation: Pre-Historic Lake Monster
+company: Champlain Provisions
+email: champ@champlainprovisions.com
+twitter: https://twitter.com/champlainprovisions
 linkedin: https://www.linkedin.com
 github: https://github.com
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Champ is a gigantic pre-historic monster trapped in the land-locked waters of Lake Champlain. Despite multiple attempts to escape through manmade avenues, he's just too much junk in the trunk so he's here to stay.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+He has developed a taste for Lake Trout and Walleye, though he doesn't like the taste of smallmouth bass he prefers to enjoy watching local fisherman catch them.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+When he's not chasing fish or sunbathing Champ can be found searching the depths of Lake Champlain for once forgotten relics and fishing lures that he sells on this website.
